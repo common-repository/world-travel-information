@@ -1,0 +1,1460 @@
+[
+   {
+      "name": "Afghanistan",
+      "code": "AF",
+      "shortcode":"[Travel-info country='AF']",
+      "shortcode_sidebar":"[Travel-info country='AF' sidebar='yes']"
+   },
+   {
+      "name": "Åland Islands",
+      "code": "AX",
+      "shortcode":"[Travel-info country='AX']",
+      "shortcode_sidebar":"[Travel-info country='AX' sidebar='yes']"
+   },
+   {
+      "name": "Albania",
+      "code": "AL",
+      "shortcode":"[Travel-info country='AL']",
+      "shortcode_sidebar":"[Travel-info country='AL' sidebar='yes']"
+   },
+   {
+      "name": "Algeria",
+      "code": "DZ",
+      "shortcode":"[Travel-info country='DZ']",
+      "shortcode_sidebar":"[Travel-info country='DZ' sidebar='yes']"
+   },
+   {
+      "name": "American Samoa",
+      "code": "AS",
+      "shortcode":"[Travel-info country='AS']",
+      "shortcode_sidebar":"[Travel-info country='AS' sidebar='yes']"
+   },
+   {
+      "name": "AndorrA",
+      "code": "AD",
+      "shortcode":"[Travel-info country='AD']",
+      "shortcode_sidebar":"[Travel-info country='AD' sidebar='yes']"
+   },
+   {
+      "name": "Angola",
+      "code": "AO",
+      "shortcode":"[Travel-info country='AO']",
+      "shortcode_sidebar":"[Travel-info country='AO' sidebar='yes']"
+   },
+   {
+      "name": "Anguilla",
+      "code": "AI",
+      "shortcode":"[Travel-info country='AI']",
+      "shortcode_sidebar":"[Travel-info country='AI' sidebar='yes']"
+   },
+   {
+      "name": "Antarctica",
+      "code": "AQ",
+      "shortcode":"[Travel-info country='AQ']",
+      "shortcode_sidebar":"[Travel-info country='AQ' sidebar='yes']"
+   },
+   {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "shortcode":"[Travel-info country='AG']",
+      "shortcode_sidebar":"[Travel-info country='AG' sidebar='yes']"
+   },
+   {
+      "name": "Argentina",
+      "code": "AR",
+      "shortcode":"[Travel-info country='AR']",
+      "shortcode_sidebar":"[Travel-info country='AR' sidebar='yes']"
+   },
+   {
+      "name": "Armenia",
+      "code": "AM",
+      "shortcode":"[Travel-info country='AM']",
+      "shortcode_sidebar":"[Travel-info country='AM' sidebar='yes']"
+   },
+   {
+      "name": "Aruba",
+      "code": "AW",
+      "shortcode":"[Travel-info country='AW']",
+      "shortcode_sidebar":"[Travel-info country='AW' sidebar='yes']"
+   },
+   {
+      "name": "Australia",
+      "code": "AU",
+      "shortcode":"[Travel-info country='AU']",
+      "shortcode_sidebar":"[Travel-info country='AU' sidebar='yes']"
+   },
+   {
+      "name": "Austria",
+      "code": "AT",
+      "shortcode":"[Travel-info country='AT']",
+      "shortcode_sidebar":"[Travel-info country='AT' sidebar='yes']"
+   },
+   {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "shortcode":"[Travel-info country='AZ']",
+      "shortcode_sidebar":"[Travel-info country='AZ' sidebar='yes']"
+   },
+   {
+      "name": "Bahamas",
+      "code": "BS",
+      "shortcode":"[Travel-info country='BS']",
+      "shortcode_sidebar":"[Travel-info country='BS' sidebar='yes']"
+   },
+   {
+      "name": "Bahrain",
+      "code": "BH",
+      "shortcode":"[Travel-info country='BH']",
+      "shortcode_sidebar":"[Travel-info country='BH' sidebar='yes']"
+   },
+   {
+      "name": "Bangladesh",
+      "code": "BD",
+      "shortcode":"[Travel-info country='BD']",
+      "shortcode_sidebar":"[Travel-info country='BD' sidebar='yes']"
+   },
+   {
+      "name": "Barbados",
+      "code": "BB",
+      "shortcode":"[Travel-info country='BB']",
+      "shortcode_sidebar":"[Travel-info country='BB' sidebar='yes']"
+   },
+   {
+      "name": "Belarus",
+      "code": "BY",
+      "shortcode":"[Travel-info country='BY']",
+      "shortcode_sidebar":"[Travel-info country='BY' sidebar='yes']"
+   },
+   {
+      "name": "Belgium",
+      "code": "BE",
+      "shortcode":"[Travel-info country='BE']",
+      "shortcode_sidebar":"[Travel-info country='BE' sidebar='yes']"
+   },
+   {
+      "name": "Belize",
+      "code": "BZ",
+      "shortcode":"[Travel-info country='BZ']",
+      "shortcode_sidebar":"[Travel-info country='BZ' sidebar='yes']"
+   },
+   {
+      "name": "Benin",
+      "code": "BJ",
+      "shortcode":"[Travel-info country='BJ']",
+      "shortcode_sidebar":"[Travel-info country='BJ' sidebar='yes']"
+   },
+   {
+      "name": "Bermuda",
+      "code": "BM",
+      "shortcode":"[Travel-info country='BM']",
+      "shortcode_sidebar":"[Travel-info country='BM' sidebar='yes']"
+   },
+   {
+      "name": "Bhutan",
+      "code": "BT",
+      "shortcode":"[Travel-info country='BT']",
+      "shortcode_sidebar":"[Travel-info country='BT' sidebar='yes']"
+   },
+   {
+      "name": "Bolivia",
+      "code": "BO",
+      "shortcode":"[Travel-info country='BO']",
+      "shortcode_sidebar":"[Travel-info country='BO' sidebar='yes']"
+   },
+   {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "shortcode":"[Travel-info country='BA']",
+      "shortcode_sidebar":"[Travel-info country='BA' sidebar='yes']"
+   },
+   {
+      "name": "Botswana",
+      "code": "BW",
+      "shortcode":"[Travel-info country='BW']",
+      "shortcode_sidebar":"[Travel-info country='BW' sidebar='yes']"
+   },
+   {
+      "name": "Bouvet Island",
+      "code": "BV",
+      "shortcode":"[Travel-info country='BV']",
+      "shortcode_sidebar":"[Travel-info country='BV' sidebar='yes']"
+   },
+   {
+      "name": "Brazil",
+      "code": "BR",
+      "shortcode":"[Travel-info country='BR']",
+      "shortcode_sidebar":"[Travel-info country='BR' sidebar='yes']"
+   },
+   {
+      "name": "British Indian Ocean Territory",
+      "code": "IO",
+      "shortcode":"[Travel-info country='IO']",
+      "shortcode_sidebar":"[Travel-info country='IO' sidebar='yes']"
+   },
+   {
+      "name": "Brunei Darussalam",
+      "code": "BN",
+      "shortcode":"[Travel-info country='BN']",
+      "shortcode_sidebar":"[Travel-info country='BN' sidebar='yes']"
+   },
+   {
+      "name": "Bulgaria",
+      "code": "BG",
+      "shortcode":"[Travel-info country='BG']",
+      "shortcode_sidebar":"[Travel-info country='BG' sidebar='yes']"
+   },
+   {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "shortcode":"[Travel-info country='BF']",
+      "shortcode_sidebar":"[Travel-info country='BF' sidebar='yes']"
+   },
+   {
+      "name": "Burundi",
+      "code": "BI",
+      "shortcode":"[Travel-info country='BI']",
+      "shortcode_sidebar":"[Travel-info country='BI' sidebar='yes']"
+   },
+   {
+      "name": "Cambodia",
+      "code": "KH",
+      "shortcode":"[Travel-info country='KH']",
+      "shortcode_sidebar":"[Travel-info country='KH' sidebar='yes']"
+   },
+   {
+      "name": "Cameroon",
+      "code": "CM",
+      "shortcode":"[Travel-info country='CM']",
+      "shortcode_sidebar":"[Travel-info country='CM' sidebar='yes']"
+   },
+   {
+      "name": "Canada",
+      "code": "CA",
+      "shortcode":"[Travel-info country='CA']",
+      "shortcode_sidebar":"[Travel-info country='CA' sidebar='yes']"
+   },
+   {
+      "name": "Cape Verde",
+      "code": "CV",
+      "shortcode":"[Travel-info country='CV']",
+      "shortcode_sidebar":"[Travel-info country='CV' sidebar='yes']"
+   },
+   {
+      "name": "Cayman Islands",
+      "code": "KY",
+      "shortcode":"[Travel-info country='KY']",
+      "shortcode_sidebar":"[Travel-info country='KY' sidebar='yes']"
+   },
+   {
+      "name": "Central African Republic",
+      "code": "CF",
+      "shortcode":"[Travel-info country='CF']",
+      "shortcode_sidebar":"[Travel-info country='CF' sidebar='yes']"
+   },
+   {
+      "name": "Chad",
+      "code": "TD",
+      "shortcode":"[Travel-info country='TD']",
+      "shortcode_sidebar":"[Travel-info country='TD' sidebar='yes']"
+   },
+   {
+      "name": "Chile",
+      "code": "CL",
+      "shortcode":"[Travel-info country='CL']",
+      "shortcode_sidebar":"[Travel-info country='CL' sidebar='yes']"
+   },
+   {
+      "name": "China",
+      "code": "CN",
+      "shortcode":"[Travel-info country='CN']",
+      "shortcode_sidebar":"[Travel-info country='CN' sidebar='yes']"
+   },
+   {
+      "name": "Christmas Island",
+      "code": "CX",
+      "shortcode":"[Travel-info country='CX']",
+      "shortcode_sidebar":"[Travel-info country='CX' sidebar='yes']"
+   },
+   {
+      "name": "Cocos (Keeling) Islands",
+      "code": "CC",
+      "shortcode":"[Travel-info country='CC']",
+      "shortcode_sidebar":"[Travel-info country='CC' sidebar='yes']"
+   },
+   {
+      "name": "Colombia",
+      "code": "CO",
+      "shortcode":"[Travel-info country='CO']",
+      "shortcode_sidebar":"[Travel-info country='CO' sidebar='yes']"
+   },
+   {
+      "name": "Comoros",
+      "code": "KM",
+      "shortcode":"[Travel-info country='KM']",
+      "shortcode_sidebar":"[Travel-info country='KM' sidebar='yes']"
+   },
+   {
+      "name": "Congo",
+      "code": "CG",
+      "shortcode":"[Travel-info country='CG']",
+      "shortcode_sidebar":"[Travel-info country='CG' sidebar='yes']"
+   },
+   {
+      "name": "Congo, The Democratic Republic of the",
+      "code": "CD",
+      "shortcode":"[Travel-info country='CD']",
+      "shortcode_sidebar":"[Travel-info country='CD' sidebar='yes']"
+   },
+   {
+      "name": "Cook Islands",
+      "code": "CK",
+      "shortcode":"[Travel-info country='CK']",
+      "shortcode_sidebar":"[Travel-info country='CK' sidebar='yes']"
+   },
+   {
+      "name": "Costa Rica",
+      "code": "CR",
+      "shortcode":"[Travel-info country='CR']",
+      "shortcode_sidebar":"[Travel-info country='CR' sidebar='yes']"
+   },
+   {
+      "name": "Cote D'Ivoire",
+      "code": "CI",
+      "shortcode":"[Travel-info country='CI']",
+      "shortcode_sidebar":"[Travel-info country='CI' sidebar='yes']"
+   },
+   {
+      "name": "Croatia",
+      "code": "HR",
+      "shortcode":"[Travel-info country='HR']",
+      "shortcode_sidebar":"[Travel-info country='HR' sidebar='yes']"
+   },
+   {
+      "name": "Cuba",
+      "code": "CU",
+      "shortcode":"[Travel-info country='CU']",
+      "shortcode_sidebar":"[Travel-info country='CU' sidebar='yes']"
+   },
+   {
+      "name": "Cyprus",
+      "code": "CY",
+      "shortcode":"[Travel-info country='CY']",
+      "shortcode_sidebar":"[Travel-info country='CY' sidebar='yes']"
+   },
+   {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "shortcode":"[Travel-info country='CZ']",
+      "shortcode_sidebar":"[Travel-info country='CZ' sidebar='yes']"
+   },
+   {
+      "name": "Denmark",
+      "code": "DK",
+      "shortcode":"[Travel-info country='DK']",
+      "shortcode_sidebar":"[Travel-info country='DK' sidebar='yes']"
+   },
+   {
+      "name": "Djibouti",
+      "code": "DJ",
+      "shortcode":"[Travel-info country='DJ']",
+      "shortcode_sidebar":"[Travel-info country='DJ' sidebar='yes']"
+   },
+   {
+      "name": "Dominica",
+      "code": "DM",
+      "shortcode":"[Travel-info country='DM']",
+      "shortcode_sidebar":"[Travel-info country='DM' sidebar='yes']"
+   },
+   {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "shortcode":"[Travel-info country='DO']",
+      "shortcode_sidebar":"[Travel-info country='DO' sidebar='yes']"
+   },
+   {
+      "name": "Ecuador",
+      "code": "EC",
+      "shortcode":"[Travel-info country='EC']",
+      "shortcode_sidebar":"[Travel-info country='EC' sidebar='yes']"
+   },
+   {
+      "name": "Egypt",
+      "code": "EG",
+      "shortcode":"[Travel-info country='EG']",
+      "shortcode_sidebar":"[Travel-info country='EG' sidebar='yes']"
+   },
+   {
+      "name": "El Salvador",
+      "code": "SV",
+      "shortcode":"[Travel-info country='SV']",
+      "shortcode_sidebar":"[Travel-info country='SV' sidebar='yes']"
+   },
+   {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "shortcode":"[Travel-info country='GQ']",
+      "shortcode_sidebar":"[Travel-info country='GQ' sidebar='yes']"
+   },
+   {
+      "name": "Eritrea",
+      "code": "ER",
+      "shortcode":"[Travel-info country='ER']",
+      "shortcode_sidebar":"[Travel-info country='ER' sidebar='yes']"
+   },
+   {
+      "name": "Estonia",
+      "code": "EE",
+      "shortcode":"[Travel-info country='EE']",
+      "shortcode_sidebar":"[Travel-info country='EE' sidebar='yes']"
+   },
+   {
+      "name": "Ethiopia",
+      "code": "ET",
+      "shortcode":"[Travel-info country='ET']",
+      "shortcode_sidebar":"[Travel-info country='ET' sidebar='yes']"
+   },
+   {
+      "name": "Falkland Islands (Malvinas)",
+      "code": "FK",
+      "shortcode":"[Travel-info country='FK']",
+      "shortcode_sidebar":"[Travel-info country='FK' sidebar='yes']"
+   },
+   {
+      "name": "Faroe Islands",
+      "code": "FO",
+      "shortcode":"[Travel-info country='FO']",
+      "shortcode_sidebar":"[Travel-info country='FO' sidebar='yes']"
+   },
+   {
+      "name": "Fiji",
+      "code": "FJ",
+      "shortcode":"[Travel-info country='FJ']",
+      "shortcode_sidebar":"[Travel-info country='FJ' sidebar='yes']"
+   },
+   {
+      "name": "Finland",
+      "code": "FI",
+      "shortcode":"[Travel-info country='FI']",
+      "shortcode_sidebar":"[Travel-info country='FI' sidebar='yes']"
+   },
+   {
+      "name": "France",
+      "code": "FR",
+      "shortcode":"[Travel-info country='FR']",
+      "shortcode_sidebar":"[Travel-info country='FR' sidebar='yes']"
+   },
+   {
+      "name": "French Guiana",
+      "code": "GF",
+      "shortcode":"[Travel-info country='GF']",
+      "shortcode_sidebar":"[Travel-info country='GF' sidebar='yes']"
+   },
+   {
+      "name": "French Polynesia",
+      "code": "PF",
+      "shortcode":"[Travel-info country='PF']",
+      "shortcode_sidebar":"[Travel-info country='PF' sidebar='yes']"
+   },
+   {
+      "name": "French Southern Territories",
+      "code": "TF",
+      "shortcode":"[Travel-info country='TF']",
+      "shortcode_sidebar":"[Travel-info country='TF' sidebar='yes']"
+   },
+   {
+      "name": "Gabon",
+      "code": "GA",
+      "shortcode":"[Travel-info country='GA']",
+      "shortcode_sidebar":"[Travel-info country='GA' sidebar='yes']"
+   },
+   {
+      "name": "Gambia",
+      "code": "GM",
+      "shortcode":"[Travel-info country='GM']",
+      "shortcode_sidebar":"[Travel-info country='GM' sidebar='yes']"
+   },
+   {
+      "name": "Georgia",
+      "code": "GE",
+      "shortcode":"[Travel-info country='GE']",
+      "shortcode_sidebar":"[Travel-info country='GE' sidebar='yes']"
+   },
+   {
+      "name": "Germany",
+      "code": "DE",
+      "shortcode":"[Travel-info country='DE']",
+      "shortcode_sidebar":"[Travel-info country='DE' sidebar='yes']"
+   },
+   {
+      "name": "Ghana",
+      "code": "GH",
+      "shortcode":"[Travel-info country='GH']",
+      "shortcode_sidebar":"[Travel-info country='GH' sidebar='yes']"
+   },
+   {
+      "name": "Gibraltar",
+      "code": "GI",
+      "shortcode":"[Travel-info country='GI']",
+      "shortcode_sidebar":"[Travel-info country='GI' sidebar='yes']"
+   },
+   {
+      "name": "Greece",
+      "code": "GR",
+      "shortcode":"[Travel-info country='GR']",
+      "shortcode_sidebar":"[Travel-info country='GR' sidebar='yes']"
+   },
+   {
+      "name": "Greenland",
+      "code": "GL",
+      "shortcode":"[Travel-info country='GL']",
+      "shortcode_sidebar":"[Travel-info country='GL' sidebar='yes']"
+   },
+   {
+      "name": "Grenada",
+      "code": "GD",
+      "shortcode":"[Travel-info country='GD']",
+      "shortcode_sidebar":"[Travel-info country='GD' sidebar='yes']"
+   },
+   {
+      "name": "Guadeloupe",
+      "code": "GP",
+      "shortcode":"[Travel-info country='GP']",
+      "shortcode_sidebar":"[Travel-info country='GP' sidebar='yes']"
+   },
+   {
+      "name": "Guam",
+      "code": "GU",
+      "shortcode":"[Travel-info country='GU']",
+      "shortcode_sidebar":"[Travel-info country='GU' sidebar='yes']"
+   },
+   {
+      "name": "Guatemala",
+      "code": "GT",
+      "shortcode":"[Travel-info country='GT']",
+      "shortcode_sidebar":"[Travel-info country='GT' sidebar='yes']"
+   },
+   {
+      "name": "Guernsey",
+      "code": "GG",
+      "shortcode":"[Travel-info country='GG']",
+      "shortcode_sidebar":"[Travel-info country='GG' sidebar='yes']"
+   },
+   {
+      "name": "Guinea",
+      "code": "GN",
+      "shortcode":"[Travel-info country='GN']",
+      "shortcode_sidebar":"[Travel-info country='GN' sidebar='yes']"
+   },
+   {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "shortcode":"[Travel-info country='GW']",
+      "shortcode_sidebar":"[Travel-info country='GW' sidebar='yes']"
+   },
+   {
+      "name": "Guyana",
+      "code": "GY",
+      "shortcode":"[Travel-info country='GY']",
+      "shortcode_sidebar":"[Travel-info country='GY' sidebar='yes']"
+   },
+   {
+      "name": "Haiti",
+      "code": "HT",
+      "shortcode":"[Travel-info country='HT']",
+      "shortcode_sidebar":"[Travel-info country='HT' sidebar='yes']"
+   },
+   {
+      "name": "Heard Island and Mcdonald Islands",
+      "code": "HM",
+      "shortcode":"[Travel-info country='HM']",
+      "shortcode_sidebar":"[Travel-info country='HM' sidebar='yes']"
+   },
+   {
+      "name": "Holy See (Vatican City State)",
+      "code": "VA",
+      "shortcode":"[Travel-info country='VA']",
+      "shortcode_sidebar":"[Travel-info country='VA' sidebar='yes']"
+   },
+   {
+      "name": "Honduras",
+      "code": "HN",
+      "shortcode":"[Travel-info country='HN']",
+      "shortcode_sidebar":"[Travel-info country='HN' sidebar='yes']"
+   },
+   {
+      "name": "Hong Kong",
+      "code": "HK",
+      "shortcode":"[Travel-info country='HK']",
+      "shortcode_sidebar":"[Travel-info country='HK' sidebar='yes']"
+   },
+   {
+      "name": "Hungary",
+      "code": "HU",
+      "shortcode":"[Travel-info country='HU']",
+      "shortcode_sidebar":"[Travel-info country='HU' sidebar='yes']"
+   },
+   {
+      "name": "Iceland",
+      "code": "IS",
+      "shortcode":"[Travel-info country='IS']",
+      "shortcode_sidebar":"[Travel-info country='IS' sidebar='yes']"
+   },
+   {
+      "name": "India",
+      "code": "IN",
+      "shortcode":"[Travel-info country='IN']",
+      "shortcode_sidebar":"[Travel-info country='IN' sidebar='yes']"
+   },
+   {
+      "name": "Indonesia",
+      "code": "ID",
+      "shortcode":"[Travel-info country='ID']",
+      "shortcode_sidebar":"[Travel-info country='ID' sidebar='yes']"
+   },
+   {
+      "name": "Iran, Islamic Republic Of",
+      "code": "IR",
+      "shortcode":"[Travel-info country='IR']",
+      "shortcode_sidebar":"[Travel-info country='IR' sidebar='yes']"
+   },
+   {
+      "name": "Iraq",
+      "code": "IQ",
+      "shortcode":"[Travel-info country='IQ']",
+      "shortcode_sidebar":"[Travel-info country='IQ' sidebar='yes']"
+   },
+   {
+      "name": "Ireland",
+      "code": "IE",
+      "shortcode":"[Travel-info country='IE']",
+      "shortcode_sidebar":"[Travel-info country='IE' sidebar='yes']"
+   },
+   {
+      "name": "Isle of Man",
+      "code": "IM",
+      "shortcode":"[Travel-info country='IM']",
+      "shortcode_sidebar":"[Travel-info country='IM' sidebar='yes']"
+   },
+   {
+      "name": "Israel",
+      "code": "IL",
+      "shortcode":"[Travel-info country='IL']",
+      "shortcode_sidebar":"[Travel-info country='IL' sidebar='yes']"
+   },
+   {
+      "name": "Italy",
+      "code": "IT",
+      "shortcode":"[Travel-info country='IT']",
+      "shortcode_sidebar":"[Travel-info country='IT' sidebar='yes']"
+   },
+   {
+      "name": "Jamaica",
+      "code": "JM",
+      "shortcode":"[Travel-info country='JM']",
+      "shortcode_sidebar":"[Travel-info country='JM' sidebar='yes']"
+   },
+   {
+      "name": "Japan",
+      "code": "JP",
+      "shortcode":"[Travel-info country='JP']",
+      "shortcode_sidebar":"[Travel-info country='JP' sidebar='yes']"
+   },
+   {
+      "name": "Jersey",
+      "code": "JE",
+      "shortcode":"[Travel-info country='JE']",
+      "shortcode_sidebar":"[Travel-info country='JE' sidebar='yes']"
+   },
+   {
+      "name": "Jordan",
+      "code": "JO",
+      "shortcode":"[Travel-info country='JO']",
+      "shortcode_sidebar":"[Travel-info country='JO' sidebar='yes']"
+   },
+   {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "shortcode":"[Travel-info country='KZ']",
+      "shortcode_sidebar":"[Travel-info country='KZ' sidebar='yes']"
+   },
+   {
+      "name": "Kenya",
+      "code": "KE",
+      "shortcode":"[Travel-info country='KE']",
+      "shortcode_sidebar":"[Travel-info country='KE' sidebar='yes']"
+   },
+   {
+      "name": "Kiribati",
+      "code": "KI",
+      "shortcode":"[Travel-info country='KI']",
+      "shortcode_sidebar":"[Travel-info country='KI' sidebar='yes']"
+   },
+   {
+      "name": "Korea, Democratic People'S Republic of",
+      "code": "KP",
+      "shortcode":"[Travel-info country='KP']",
+      "shortcode_sidebar":"[Travel-info country='KP' sidebar='yes']"
+   },
+   {
+      "name": "Korea, Republic of",
+      "code": "KR",
+      "shortcode":"[Travel-info country='KR']",
+      "shortcode_sidebar":"[Travel-info country='KR' sidebar='yes']"
+   },
+   {
+      "name": "Kuwait",
+      "code": "KW",
+      "shortcode":"[Travel-info country='KW']",
+      "shortcode_sidebar":"[Travel-info country='KW' sidebar='yes']"
+   },
+   {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "shortcode":"[Travel-info country='KG']",
+      "shortcode_sidebar":"[Travel-info country='KG' sidebar='yes']"
+   },
+   {
+      "name": "Lao People'S Democratic Republic",
+      "code": "LA",
+      "shortcode":"[Travel-info country='LA']",
+      "shortcode_sidebar":"[Travel-info country='LA' sidebar='yes']"
+   },
+   {
+      "name": "Latvia",
+      "code": "LV",
+      "shortcode":"[Travel-info country='LV']",
+      "shortcode_sidebar":"[Travel-info country='LV' sidebar='yes']"
+   },
+   {
+      "name": "Lebanon",
+      "code": "LB",
+      "shortcode":"[Travel-info country='LB']",
+      "shortcode_sidebar":"[Travel-info country='LB' sidebar='yes']"
+   },
+   {
+      "name": "Lesotho",
+      "code": "LS",
+      "shortcode":"[Travel-info country='LS']",
+      "shortcode_sidebar":"[Travel-info country='LS' sidebar='yes']"
+   },
+   {
+      "name": "Liberia",
+      "code": "LR",
+      "shortcode":"[Travel-info country='LR']",
+      "shortcode_sidebar":"[Travel-info country='LR' sidebar='yes']"
+   },
+   {
+      "name": "Libyan Arab Jamahiriya",
+      "code": "LY",
+      "shortcode":"[Travel-info country='LY']",
+      "shortcode_sidebar":"[Travel-info country='LY' sidebar='yes']"
+   },
+   {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "shortcode":"[Travel-info country='LI']",
+      "shortcode_sidebar":"[Travel-info country='LI' sidebar='yes']"
+   },
+   {
+      "name": "Lithuania",
+      "code": "LT",
+      "shortcode":"[Travel-info country='LT']",
+      "shortcode_sidebar":"[Travel-info country='LT' sidebar='yes']"
+   },
+   {
+      "name": "Luxembourg",
+      "code": "LU",
+      "shortcode":"[Travel-info country='LU']",
+      "shortcode_sidebar":"[Travel-info country='LU' sidebar='yes']"
+   },
+   {
+      "name": "Macao",
+      "code": "MO",
+      "shortcode":"[Travel-info country='MO']",
+      "shortcode_sidebar":"[Travel-info country='MO' sidebar='yes']"
+   },
+   {
+      "name": "Macedonia, The Former Yugoslav Republic of",
+      "code": "MK",
+      "shortcode":"[Travel-info country='MK']",
+      "shortcode_sidebar":"[Travel-info country='MK' sidebar='yes']"
+   },
+   {
+      "name": "Madagascar",
+      "code": "MG",
+      "shortcode":"[Travel-info country='MG']",
+      "shortcode_sidebar":"[Travel-info country='MG' sidebar='yes']"
+   },
+   {
+      "name": "Malawi",
+      "code": "MW",
+      "shortcode":"[Travel-info country='MW']",
+      "shortcode_sidebar":"[Travel-info country='MW' sidebar='yes']"
+   },
+   {
+      "name": "Malaysia",
+      "code": "MY",
+      "shortcode":"[Travel-info country='MY']",
+      "shortcode_sidebar":"[Travel-info country='MY' sidebar='yes']"
+   },
+   {
+      "name": "Maldives",
+      "code": "MV",
+      "shortcode":"[Travel-info country='MV']",
+      "shortcode_sidebar":"[Travel-info country='MV' sidebar='yes']"
+   },
+   {
+      "name": "Mali",
+      "code": "ML",
+      "shortcode":"[Travel-info country='ML']",
+      "shortcode_sidebar":"[Travel-info country='ML' sidebar='yes']"
+   },
+   {
+      "name": "Malta",
+      "code": "MT",
+      "shortcode":"[Travel-info country='MT']",
+      "shortcode_sidebar":"[Travel-info country='MT' sidebar='yes']"
+   },
+   {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "shortcode":"[Travel-info country='MH']",
+      "shortcode_sidebar":"[Travel-info country='MH' sidebar='yes']"
+   },
+   {
+      "name": "Martinique",
+      "code": "MQ",
+      "shortcode":"[Travel-info country='MQ']",
+      "shortcode_sidebar":"[Travel-info country='MQ' sidebar='yes']"
+   },
+   {
+      "name": "Mauritania",
+      "code": "MR",
+      "shortcode":"[Travel-info country='MR']",
+      "shortcode_sidebar":"[Travel-info country='MR' sidebar='yes']"
+   },
+   {
+      "name": "Mauritius",
+      "code": "MU",
+      "shortcode":"[Travel-info country='MU']",
+      "shortcode_sidebar":"[Travel-info country='MU' sidebar='yes']"
+   },
+   {
+      "name": "Mayotte",
+      "code": "YT",
+      "shortcode":"[Travel-info country='YT']",
+      "shortcode_sidebar":"[Travel-info country='YT' sidebar='yes']"
+   },
+   {
+      "name": "Mexico",
+      "code": "MX",
+      "shortcode":"[Travel-info country='MX']",
+      "shortcode_sidebar":"[Travel-info country='MX' sidebar='yes']"
+   },
+   {
+      "name": "Micronesia, Federated States of",
+      "code": "FM",
+      "shortcode":"[Travel-info country='FM']",
+      "shortcode_sidebar":"[Travel-info country='FM' sidebar='yes']"
+   },
+   {
+      "name": "Moldova, Republic of",
+      "code": "MD",
+      "shortcode":"[Travel-info country='MD']",
+      "shortcode_sidebar":"[Travel-info country='MD' sidebar='yes']"
+   },
+   {
+      "name": "Monaco",
+      "code": "MC",
+      "shortcode":"[Travel-info country='MC']",
+      "shortcode_sidebar":"[Travel-info country='MC' sidebar='yes']"
+   },
+   {
+      "name": "Mongolia",
+      "code": "MN",
+      "shortcode":"[Travel-info country='MN']",
+      "shortcode_sidebar":"[Travel-info country='MN' sidebar='yes']"
+   },
+   {
+      "name": "Montserrat",
+      "code": "MS",
+      "shortcode":"[Travel-info country='MS']",
+      "shortcode_sidebar":"[Travel-info country='MS' sidebar='yes']"
+   },
+   {
+      "name": "Morocco",
+      "code": "MA",
+      "shortcode":"[Travel-info country='MA']",
+      "shortcode_sidebar":"[Travel-info country='MA' sidebar='yes']"
+   },
+   {
+      "name": "Mozambique",
+      "code": "MZ",
+      "shortcode":"[Travel-info country='MZ']",
+      "shortcode_sidebar":"[Travel-info country='MZ' sidebar='yes']"
+   },
+   {
+      "name": "Myanmar",
+      "code": "MM",
+      "shortcode":"[Travel-info country='MM']",
+      "shortcode_sidebar":"[Travel-info country='MM' sidebar='yes']"
+   },
+   {
+      "name": "Namibia",
+      "code": "NA",
+      "shortcode":"[Travel-info country='NA']",
+      "shortcode_sidebar":"[Travel-info country='NA' sidebar='yes']"
+   },
+   {
+      "name": "Nauru",
+      "code": "NR",
+      "shortcode":"[Travel-info country='NR']",
+      "shortcode_sidebar":"[Travel-info country='NR' sidebar='yes']"
+   },
+   {
+      "name": "Nepal",
+      "code": "NP",
+      "shortcode":"[Travel-info country='NP']",
+      "shortcode_sidebar":"[Travel-info country='NP' sidebar='yes']"
+   },
+   {
+      "name": "Netherlands",
+      "code": "NL",
+      "shortcode":"[Travel-info country='NL']",
+      "shortcode_sidebar":"[Travel-info country='NL' sidebar='yes']"
+   },
+   {
+      "name": "Netherlands Antilles",
+      "code": "AN",
+      "shortcode":"[Travel-info country='AN']",
+      "shortcode_sidebar":"[Travel-info country='AN' sidebar='yes']"
+   },
+   {
+      "name": "New Caledonia",
+      "code": "NC",
+      "shortcode":"[Travel-info country='NC']",
+      "shortcode_sidebar":"[Travel-info country='NC' sidebar='yes']"
+   },
+   {
+      "name": "New Zealand",
+      "code": "NZ",
+      "shortcode":"[Travel-info country='NZ']",
+      "shortcode_sidebar":"[Travel-info country='NZ' sidebar='yes']"
+   },
+   {
+      "name": "Nicaragua",
+      "code": "NI",
+      "shortcode":"[Travel-info country='NI']",
+      "shortcode_sidebar":"[Travel-info country='NI' sidebar='yes']"
+   },
+   {
+      "name": "Niger",
+      "code": "NE",
+      "shortcode":"[Travel-info country='NE']",
+      "shortcode_sidebar":"[Travel-info country='NE' sidebar='yes']"
+   },
+   {
+      "name": "Nigeria",
+      "code": "NG",
+      "shortcode":"[Travel-info country='NG']",
+      "shortcode_sidebar":"[Travel-info country='NG' sidebar='yes']"
+   },
+   {
+      "name": "Niue",
+      "code": "NU",
+      "shortcode":"[Travel-info country='NU']",
+      "shortcode_sidebar":"[Travel-info country='NU' sidebar='yes']"
+   },
+   {
+      "name": "Norfolk Island",
+      "code": "NF",
+      "shortcode":"[Travel-info country='NF']",
+      "shortcode_sidebar":"[Travel-info country='NF' sidebar='yes']"
+   },
+   {
+      "name": "Northern Mariana Islands",
+      "code": "MP",
+      "shortcode":"[Travel-info country='MP']",
+      "shortcode_sidebar":"[Travel-info country='MP' sidebar='yes']"
+   },
+   {
+      "name": "Norway",
+      "code": "NO",
+      "shortcode":"[Travel-info country='NO']",
+      "shortcode_sidebar":"[Travel-info country='NO' sidebar='yes']"
+   },
+   {
+      "name": "Oman",
+      "code": "OM",
+      "shortcode":"[Travel-info country='OM']",
+      "shortcode_sidebar":"[Travel-info country='OM' sidebar='yes']"
+   },
+   {
+      "name": "Pakistan",
+      "code": "PK",
+      "shortcode":"[Travel-info country='PK']",
+      "shortcode_sidebar":"[Travel-info country='PK' sidebar='yes']"
+   },
+   {
+      "name": "Palau",
+      "code": "PW",
+      "shortcode":"[Travel-info country='PW']",
+      "shortcode_sidebar":"[Travel-info country='PW' sidebar='yes']"
+   },
+   {
+      "name": "Palestinian Territory, Occupied",
+      "code": "PS",
+      "shortcode":"[Travel-info country='PS']",
+      "shortcode_sidebar":"[Travel-info country='PS' sidebar='yes']"
+   },
+   {
+      "name": "Panama",
+      "code": "PA",
+      "shortcode":"[Travel-info country='PA']",
+      "shortcode_sidebar":"[Travel-info country='PA' sidebar='yes']"
+   },
+   {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "shortcode":"[Travel-info country='PG']",
+      "shortcode_sidebar":"[Travel-info country='PG' sidebar='yes']"
+   },
+   {
+      "name": "Paraguay",
+      "code": "PY",
+      "shortcode":"[Travel-info country='PY']",
+      "shortcode_sidebar":"[Travel-info country='PY' sidebar='yes']"
+   },
+   {
+      "name": "Peru",
+      "code": "PE",
+      "shortcode":"[Travel-info country='PE']",
+      "shortcode_sidebar":"[Travel-info country='PE' sidebar='yes']"
+   },
+   {
+      "name": "Philippines",
+      "code": "PH",
+      "shortcode":"[Travel-info country='PH']",
+      "shortcode_sidebar":"[Travel-info country='PH' sidebar='yes']"
+   },
+   {
+      "name": "Pitcairn",
+      "code": "PN",
+      "shortcode":"[Travel-info country='PN']",
+      "shortcode_sidebar":"[Travel-info country='PN' sidebar='yes']"
+   },
+   {
+      "name": "Poland",
+      "code": "PL",
+      "shortcode":"[Travel-info country='PL']",
+      "shortcode_sidebar":"[Travel-info country='PL' sidebar='yes']"
+   },
+   {
+      "name": "Portugal",
+      "code": "PT",
+      "shortcode":"[Travel-info country='PT']",
+      "shortcode_sidebar":"[Travel-info country='PT' sidebar='yes']"
+   },
+   {
+      "name": "Puerto Rico",
+      "code": "PR",
+      "shortcode":"[Travel-info country='PR']",
+      "shortcode_sidebar":"[Travel-info country='PR' sidebar='yes']"
+   },
+   {
+      "name": "Qatar",
+      "code": "QA",
+      "shortcode":"[Travel-info country='QA']",
+      "shortcode_sidebar":"[Travel-info country='QA' sidebar='yes']"
+   },
+   {
+      "name": "Reunion",
+      "code": "RE",
+      "shortcode":"[Travel-info country='RE']",
+      "shortcode_sidebar":"[Travel-info country='RE' sidebar='yes']"
+   },
+   {
+      "name": "Romania",
+      "code": "RO",
+      "shortcode":"[Travel-info country='RO']",
+      "shortcode_sidebar":"[Travel-info country='RO' sidebar='yes']"
+   },
+   {
+      "name": "Russian Federation",
+      "code": "RU",
+      "shortcode":"[Travel-info country='RU']",
+      "shortcode_sidebar":"[Travel-info country='RU' sidebar='yes']"
+   },
+   {
+      "name": "RWANDA",
+      "code": "RW",
+      "shortcode":"[Travel-info country='RW']",
+      "shortcode_sidebar":"[Travel-info country='RW' sidebar='yes']"
+   },
+   {
+      "name": "Saint Helena",
+      "code": "SH",
+      "shortcode":"[Travel-info country='SH']",
+      "shortcode_sidebar":"[Travel-info country='SH' sidebar='yes']"
+   },
+   {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "shortcode":"[Travel-info country='KN']",
+      "shortcode_sidebar":"[Travel-info country='KN' sidebar='yes']"
+   },
+   {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "shortcode":"[Travel-info country='LC']",
+      "shortcode_sidebar":"[Travel-info country='LC' sidebar='yes']"
+   },
+   {
+      "name": "Saint Pierre and Miquelon",
+      "code": "PM",
+      "shortcode":"[Travel-info country='PM']",
+      "shortcode_sidebar":"[Travel-info country='PM' sidebar='yes']"
+   },
+   {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "shortcode":"[Travel-info country='VC']",
+      "shortcode_sidebar":"[Travel-info country='VC' sidebar='yes']"
+   },
+   {
+      "name": "Samoa",
+      "code": "WS",
+      "shortcode":"[Travel-info country='WS']",
+      "shortcode_sidebar":"[Travel-info country='WS' sidebar='yes']"
+   },
+   {
+      "name": "San Marino",
+      "code": "SM",
+      "shortcode":"[Travel-info country='SM']",
+      "shortcode_sidebar":"[Travel-info country='SM' sidebar='yes']"
+   },
+   {
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "shortcode":"[Travel-info country='ST']",
+      "shortcode_sidebar":"[Travel-info country='ST' sidebar='yes']"
+   },
+   {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "shortcode":"[Travel-info country='SA']",
+      "shortcode_sidebar":"[Travel-info country='SA' sidebar='yes']"
+   },
+   {
+      "name": "Senegal",
+      "code": "SN",
+      "shortcode":"[Travel-info country='SN']",
+      "shortcode_sidebar":"[Travel-info country='SN' sidebar='yes']"
+   },
+   {
+      "name": "Serbia and Montenegro",
+      "code": "CS",
+      "shortcode":"[Travel-info country='CS']",
+      "shortcode_sidebar":"[Travel-info country='CS' sidebar='yes']"
+   },
+   {
+      "name": "Seychelles",
+      "code": "SC",
+      "shortcode":"[Travel-info country='SC']",
+      "shortcode_sidebar":"[Travel-info country='SC' sidebar='yes']"
+   },
+   {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "shortcode":"[Travel-info country='SL']",
+      "shortcode_sidebar":"[Travel-info country='SL' sidebar='yes']"
+   },
+   {
+      "name": "Singapore",
+      "code": "SG",
+      "shortcode":"[Travel-info country='SG']",
+      "shortcode_sidebar":"[Travel-info country='SG' sidebar='yes']"
+   },
+   {
+      "name": "Slovakia",
+      "code": "SK",
+      "shortcode":"[Travel-info country='SK']",
+      "shortcode_sidebar":"[Travel-info country='SK' sidebar='yes']"
+   },
+   {
+      "name": "Slovenia",
+      "code": "SI",
+      "shortcode":"[Travel-info country='SI']",
+      "shortcode_sidebar":"[Travel-info country='SI' sidebar='yes']"
+   },
+   {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "shortcode":"[Travel-info country='SB']",
+      "shortcode_sidebar":"[Travel-info country='SB' sidebar='yes']"
+   },
+   {
+      "name": "Somalia",
+      "code": "SO",
+      "shortcode":"[Travel-info country='SO']",
+      "shortcode_sidebar":"[Travel-info country='SO' sidebar='yes']"
+   },
+   {
+      "name": "South Africa",
+      "code": "ZA",
+      "shortcode":"[Travel-info country='ZA']",
+      "shortcode_sidebar":"[Travel-info country='ZA' sidebar='yes']"
+   },
+   {
+      "name": "South Georgia and the South Sandwich Islands",
+      "code": "GS",
+      "shortcode":"[Travel-info country='GS']",
+      "shortcode_sidebar":"[Travel-info country='GS' sidebar='yes']"
+   },
+   {
+      "name": "Spain",
+      "code": "ES",
+      "shortcode":"[Travel-info country='ES']",
+      "shortcode_sidebar":"[Travel-info country='ES' sidebar='yes']"
+   },
+   {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "shortcode":"[Travel-info country='LK']",
+      "shortcode_sidebar":"[Travel-info country='LK' sidebar='yes']"
+   },
+   {
+      "name": "Sudan",
+      "code": "SD",
+      "shortcode":"[Travel-info country='SD']",
+      "shortcode_sidebar":"[Travel-info country='SD' sidebar='yes']"
+   },
+   {
+      "name": "Suriname",
+      "code": "SR",
+      "shortcode":"[Travel-info country='SR']",
+      "shortcode_sidebar":"[Travel-info country='SR' sidebar='yes']"
+   },
+   {
+      "name": "Svalbard and Jan Mayen",
+      "code": "SJ",
+      "shortcode":"[Travel-info country='SJ']",
+      "shortcode_sidebar":"[Travel-info country='SJ' sidebar='yes']"
+   },
+   {
+      "name": "Swaziland",
+      "code": "SZ",
+      "shortcode":"[Travel-info country='SZ']",
+      "shortcode_sidebar":"[Travel-info country='SZ' sidebar='yes']"
+   },
+   {
+      "name": "Sweden",
+      "code": "SE",
+      "shortcode":"[Travel-info country='SE']",
+      "shortcode_sidebar":"[Travel-info country='SE' sidebar='yes']"
+   },
+   {
+      "name": "Switzerland",
+      "code": "CH",
+      "shortcode":"[Travel-info country='CH']",
+      "shortcode_sidebar":"[Travel-info country='CH' sidebar='yes']"
+   },
+   {
+      "name": "Syrian Arab Republic",
+      "code": "SY",
+      "shortcode":"[Travel-info country='SY']",
+      "shortcode_sidebar":"[Travel-info country='SY' sidebar='yes']"
+   },
+   {
+      "name": "Taiwan, Province of China",
+      "code": "TW",
+      "shortcode":"[Travel-info country='TW']",
+      "shortcode_sidebar":"[Travel-info country='TW' sidebar='yes']"
+   },
+   {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "shortcode":"[Travel-info country='TJ']",
+      "shortcode_sidebar":"[Travel-info country='TJ' sidebar='yes']"
+   },
+   {
+      "name": "Tanzania, United Republic of",
+      "code": "TZ",
+      "shortcode":"[Travel-info country='TZ']",
+      "shortcode_sidebar":"[Travel-info country='TZ' sidebar='yes']"
+   },
+   {
+      "name": "Thailand",
+      "code": "TH",
+      "shortcode":"[Travel-info country='TH']",
+      "shortcode_sidebar":"[Travel-info country='TH' sidebar='yes']"
+   },
+   {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "shortcode":"[Travel-info country='TL']",
+      "shortcode_sidebar":"[Travel-info country='TL' sidebar='yes']"
+   },
+   {
+      "name": "Togo",
+      "code": "TG",
+      "shortcode":"[Travel-info country='TG']",
+      "shortcode_sidebar":"[Travel-info country='TG' sidebar='yes']"
+   },
+   {
+      "name": "Tokelau",
+      "code": "TK",
+      "shortcode":"[Travel-info country='TK']",
+      "shortcode_sidebar":"[Travel-info country='TK' sidebar='yes']"
+   },
+   {
+      "name": "Tonga",
+      "code": "TO",
+      "shortcode":"[Travel-info country='TO']",
+      "shortcode_sidebar":"[Travel-info country='TO' sidebar='yes']"
+   },
+   {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "shortcode":"[Travel-info country='TT']",
+      "shortcode_sidebar":"[Travel-info country='TT' sidebar='yes']"
+   },
+   {
+      "name": "Tunisia",
+      "code": "TN",
+      "shortcode":"[Travel-info country='TN']",
+      "shortcode_sidebar":"[Travel-info country='TN' sidebar='yes']"
+   },
+   {
+      "name": "Turkey",
+      "code": "TR",
+      "shortcode":"[Travel-info country='TR']",
+      "shortcode_sidebar":"[Travel-info country='TR' sidebar='yes']"
+   },
+   {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "shortcode":"[Travel-info country='TM']",
+      "shortcode_sidebar":"[Travel-info country='TM' sidebar='yes']"
+   },
+   {
+      "name": "Turks and Caicos Islands",
+      "code": "TC",
+      "shortcode":"[Travel-info country='TC']",
+      "shortcode_sidebar":"[Travel-info country='TC' sidebar='yes']"
+   },
+   {
+      "name": "Tuvalu",
+      "code": "TV",
+      "shortcode":"[Travel-info country='TV']",
+      "shortcode_sidebar":"[Travel-info country='TV' sidebar='yes']"
+   },
+   {
+      "name": "Uganda",
+      "code": "UG",
+      "shortcode":"[Travel-info country='UG']",
+      "shortcode_sidebar":"[Travel-info country='UG' sidebar='yes']"
+   },
+   {
+      "name": "Ukraine",
+      "code": "UA",
+      "shortcode":"[Travel-info country='UA']",
+      "shortcode_sidebar":"[Travel-info country='UA' sidebar='yes']"
+   },
+   {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "shortcode":"[Travel-info country='AE']",
+      "shortcode_sidebar":"[Travel-info country='AE' sidebar='yes']"
+   },
+   {
+      "name": "United Kingdom",
+      "code": "GB",
+      "shortcode":"[Travel-info country='GB']",
+      "shortcode_sidebar":"[Travel-info country='GB' sidebar='yes']"
+   },
+   {
+      "name": "United States",
+      "code": "US",
+      "shortcode":"[Travel-info country='US']",
+      "shortcode_sidebar":"[Travel-info country='US' sidebar='yes']"
+   },
+   {
+      "name": "United States Minor Outlying Islands",
+      "code": "UM",
+      "shortcode":"[Travel-info country='UM']",
+      "shortcode_sidebar":"[Travel-info country='UM' sidebar='yes']"
+   },
+   {
+      "name": "Uruguay",
+      "code": "UY",
+      "shortcode":"[Travel-info country='UY']",
+      "shortcode_sidebar":"[Travel-info country='UY' sidebar='yes']"
+   },
+   {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "shortcode":"[Travel-info country='UZ']",
+      "shortcode_sidebar":"[Travel-info country='UZ' sidebar='yes']"
+   },
+   {
+      "name": "Vanuatu",
+      "code": "VU",
+      "shortcode":"[Travel-info country='VU']",
+      "shortcode_sidebar":"[Travel-info country='VU' sidebar='yes']"
+   },
+   {
+      "name": "Venezuela",
+      "code": "VE",
+      "shortcode":"[Travel-info country='VE']",
+      "shortcode_sidebar":"[Travel-info country='VE' sidebar='yes']"
+   },
+   {
+      "name": "Viet Nam",
+      "code": "VN",
+      "shortcode":"[Travel-info country='VN']",
+      "shortcode_sidebar":"[Travel-info country='VN' sidebar='yes']"
+   },
+   {
+      "name": "Virgin Islands, British",
+      "code": "VG",
+      "shortcode":"[Travel-info country='VG']",
+      "shortcode_sidebar":"[Travel-info country='VG' sidebar='yes']"
+   },
+   {
+      "name": "Virgin Islands, U.S.",
+      "code": "VI",
+      "shortcode":"[Travel-info country='VI']",
+      "shortcode_sidebar":"[Travel-info country='VI' sidebar='yes']"
+   },
+   {
+      "name": "Wallis and Futuna",
+      "code": "WF",
+      "shortcode":"[Travel-info country='WF']",
+      "shortcode_sidebar":"[Travel-info country='WF' sidebar='yes']"
+   },
+   {
+      "name": "Western Sahara",
+      "code": "EH",
+      "shortcode":"[Travel-info country='EH']",
+      "shortcode_sidebar":"[Travel-info country='EH' sidebar='yes']"
+   },
+   {
+      "name": "Yemen",
+      "code": "YE",
+      "shortcode":"[Travel-info country='YE']",
+      "shortcode_sidebar":"[Travel-info country='YE' sidebar='yes']"
+   },
+   {
+      "name": "Zambia",
+      "code": "ZM",
+      "shortcode":"[Travel-info country='ZM']",
+      "shortcode_sidebar":"[Travel-info country='ZM' sidebar='yes']"
+   },
+   {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "shortcode":"[Travel-info country='ZW']",
+      "shortcode_sidebar":"[Travel-info country='ZW' sidebar='yes']"
+   }
+]

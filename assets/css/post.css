@@ -1,0 +1,241 @@
+* {
+    box-sizing: border-box;
+}
+
+.ti_section {
+    font-size: 14px;
+    font-family: Roboto!important;
+}
+
+.ti_container {
+    width: 100%;
+    padding: 16px;
+    background: rgba(255, 255, 255, 1);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0.6323880553245544, 0.6727531552314758, 0.6958189606666565, 0.15000000596046448);
+    overflow: hidden;
+}
+
+.ti_header {
+    opacity: 1;
+    overflow: hidden;
+    color: rgba(0, 0, 0, 1);
+    font-weight: bold;
+    font-size: 22px;
+    text-align: left;
+}
+
+.ti_restrictions {
+    background: rgba(54, 199, 86, 0.10000000149011612);
+    padding: 4px 12px;
+    margin: 0px 0px 0px 10px;
+    opacity: 1;
+    position: absolute;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    overflow: hidden;
+    color: rgba(54, 199, 86, 1);
+    font-weight: Medium;
+    font-size: 16px;
+    opacity: 1;
+}
+
+.ti_description {
+    color: rgba(73, 80, 87, 1);
+    line-height: 40px;
+    font-size: 16px;
+    opacity: 1;
+}
+
+.ti_number_description {
+    width: 100%;
+    border-top: 2px solid #D2DDE4;
+    border-bottom: 2px solid #D2DDE4;
+    opacity: 1;
+    overflow: hidden;
+    min-height: 60px;
+}
+
+.ti_number_one {
+    padding-top: 10px;
+    display: inline-block;
+    opacity: 1;
+    overflow: hidden;
+    display: flex;
+    align-content: space-between;
+    justify-content: flex-start;
+}
+
+.ti_number_one .vaccine {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+    padding: 8px;
+    background: #EBF9EE;
+}
+
+.ti_number_one .virus {
+
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+    padding: 8px;
+
+    background: rgba(240, 61, 62, 0.1);
+}
+
+
+.ti_number_one .icon_text{
+    padding: 8px;
+}
+
+.ti_travel_description {
+    width: 100%;
+    opacity: 1;
+    display: inline-block;
+    overflow: hidden;
+    padding: 20px 0px 20px 0px;
+}
+
+.ti_travel_description .ti_travel_to {
+    display: inline;
+    opacity: 1;
+    float: left;
+}
+
+.ti_travel_description .ti_travel_return {
+    display: inline;
+    opacity: 1;
+    float: right;
+}
+
+.ti_travel_to,
+.ti_travel_return,
+.title {
+    font-weight: bold;
+    font-size: 24px;
+    color: #212429;
+    line-height: 35px;
+}
+
+.ti_travel_to,
+.ti_travel_return,
+.description {
+    font-weight: normal;
+    font-size: 14px;
+    color: #687885;
+    line-height: 30px;
+}
+
+.ti_travel_to,
+.ti_travel_return,
+.details {
+    font-weight: normal;
+    font-size: 16px;
+    color: #495057;
+    line-height: 20px;
+    width: 45%;
+}
+
+.ti_other_restrictions .title {
+    font-weight: bold;
+    font-size: 24px;
+    color: #212429;
+    line-height: 35px;
+}
+
+.ti_other_restrictions .details {
+    width: 100%;
+}
+
+.ti_other_restrictions .details img {
+    margin-right: 20px;
+}
+
+.ti_other_restrictions .details .transport {
+    display: inline;
+    width: 33%;
+    float: left;
+}
+
+.ti_other_restrictions .details .resturant {
+    display: inline;
+    width: 33%;
+    float: left;
+}
+
+.ti_other_restrictions .details .bar {
+    display: inline;
+    width: 33%;
+    float: left;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .ti_header{
+        position: relative;
+        min-height: 60px;
+    }
+    
+    .ti_restrictions{
+        position: absolute;
+        top: 0px;
+        left: -10px; 
+    }
+
+    .ti_restrictions_text{
+        position: relative;
+        top: 30px;
+        
+    }
+    .ti_number_one{
+        display: inline;
+    }
+    .vaccine_info{
+        padding: 10px 0px 10px 0px;
+    }
+    .virus_info{
+        padding: 10px 0px 10px 0px;
+        
+    }
+    .ti_travel_to,
+    .ti_travel_return,
+    .details {
+        width: 100%;
+    }
+
+    .ti_travel_return{
+        margin-top: 20px;
+    }
+
+    .ti_other_restrictions .details .transport {
+        width: 100%;
+        float: left;
+        margin: 10px 0px 10px 0px ;
+    }
+
+    .ti_other_restrictions .details .resturant {
+        width: 100%;
+        float: left;
+        margin: 10px 0px 10px 0px ;
+
+    }
+
+    .ti_other_restrictions .details .bar {
+        width: 100%;
+        float: left;
+        margin: 10px 0px 10px 0px ;
+
+    }
+}
